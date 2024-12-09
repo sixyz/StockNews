@@ -15,6 +15,14 @@ Funktionalitet :
 
 Allt data laddas dynamiskt utan att sidorna laddas om
 
+Det mest intressanta koden hittar man under : 
+NewsFeed.js
+ArticleList.aspx.cs
+Article.cs
+ArticleList.js
+Stocks.js
+Stocks.aspx.js
+Stock.cs
 
 
 
